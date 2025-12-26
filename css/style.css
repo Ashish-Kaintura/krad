@@ -3542,11 +3542,12 @@ footer.site-footer .bottom-footer p {
 /************************** 
 * 17. inner banner styles 
 ***************************/
+
 .inner-banner {
   text-align: center;
   padding-top: 105px;
   padding-bottom: 50px;
-  background: #000 url(https://img.freepik.com/free-psd/travel-tourism-facebook-cover-banner-template_120329-5869.jpg?semt=ais_hybrid&w=740&q=80) center center no-repeat;
+  background: #000 url(../img/about_pg_img/About_img.jpg) center center no-repeat;
   height: 600px;
   background-size: cover;
 }
@@ -3578,6 +3579,98 @@ footer.site-footer .bottom-footer p {
 .inner-banner ul.breadcumb span {
   color: #fff;
 }
+
+
+
+
+/************************** 
+*  pipe banner style 
+***************************/
+
+
+.pipe-banner {
+  text-align: center;
+  padding-top: 105px;
+  padding-bottom: 50px;
+  background: #000 url(../img/pipe_pg_imges/Pipe_Page_Banner.jpg) center center no-repeat;
+  height: 600px;
+  background-size: cover;
+}
+.pipe-banner h3, .pipe-banner ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.pipe-banner h3 {
+  font-size: 36px;
+  font-family: 'Poppins';
+  font-weight: 600;
+  color: #FFFFFF;
+  margin-bottom: 5px;
+}
+.pipe-banner ul.breadcumb li {
+  display: inline-block;
+  vertical-align: middle;
+}
+.pipe-banner ul.breadcumb a, .pipe-banner ul.breadcumb span {
+  color: #FE5A0E;
+  font-size: 18px;
+}
+.pipe-banner ul.breadcumb span.sep {
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #FE5A0E;
+}
+.pipe-banner ul.breadcumb span {
+  color: #fff;
+}
+
+
+
+/************************** 
+*  fittings banner style 
+***************************/
+
+
+.fittings-banner {
+  text-align: center;
+  padding-top: 105px;
+  padding-bottom: 50px;
+  background: #000 url(../img/fittings_pg_img/Fittings_Page_Banner.jpg) center center no-repeat;
+  height: 600px;
+  background-size: cover;
+}
+.fittings-banner h3, .fittings-banner ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.fittings-banner h3 {
+  font-size: 36px;
+  font-family: 'Poppins';
+  font-weight: 600;
+  color: #FFFFFF;
+  margin-bottom: 5px;
+}
+.fittings-banner ul.breadcumb li {
+  display: inline-block;
+  vertical-align: middle;
+}
+.fittings-banner ul.breadcumb a, .fittings-banner ul.breadcumb span {
+  color: #FE5A0E;
+  font-size: 18px;
+}
+.fittings-banner ul.breadcumb span.sep {
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #FE5A0E;
+}
+.fittings-banner ul.breadcumb span {
+  color: #fff;
+}
+
+
+
 
 /************************** 
 * 18. error 404 styles 
